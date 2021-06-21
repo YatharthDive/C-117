@@ -1,0 +1,27 @@
+.heading {
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px yellow;
+
+}
+
+.headdiv {
+    float: none;
+    background-color: red;
+    padding: 10px;
+    border-radius: 20px;
+    color: blue;
+    box-shadow: 5px 5px 5px yellow;
+}
+
+.hdiv2 {
+    font-size: 20px
+}
+
+body {
+    text-align: center;
+    background-size:100% 100%;
+     background-repeat:no-repeat;
+    height: 90%;
+}
