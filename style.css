@@ -25,3 +25,22 @@ body {
      background-repeat:no-repeat;
     height: 90%;
 }
+.object1{
+    box-shadow:5px 6px 5px blue;
+    font-size:20px;
+}
+.Copyright{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    background-color: black;
+    color: lightcyan;
+    font-weight: bold;
+    text-align:center;
+    line-height: 3;
+}
+canvas{
+    border:5px dashed yellow;
+    box-shadow:5px 6px 5px blue;
+    margin-top:150px
+}
